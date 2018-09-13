@@ -14,6 +14,7 @@ walmart.php
 
 
 Tambahkan ?email= (required). Email &pwd= (required). Password
+
 Example : htts://nblh.site/walmart.php?email=nblh.ayu@gmail.com&pwd=cintaku
 
 
