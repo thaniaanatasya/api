@@ -15,7 +15,7 @@ walmart.php
 
 Tambahkan ?email= (required). Email &pwd= (required). Password
 
-Example : http://nblh.site/walmart.php?email=nblh.ayu@gmail.com&pwd=cintaku
+Example : http://nblh.site/api/walmart.php?email=nblh.ayu@gmail.com&pwd=cintaku
 
 
 Live : {"status":"OK","payload":{"firstName":"Robyn","lastName":"Williams","cid":"f225c12d-ebcb-6772-e044-001517f43a86","omsCustomerId":"83251640","customerId":"f225c12d-ebcb-6772-e044-001517f43a86","subscribed":false}}
